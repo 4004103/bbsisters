@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.tour_tab{margin:-30px auto 50px;}
+.tour_title{font-size: 1px; height: 1px; position: relative; text-indent: -9999999999999px; width: 1px;}
+.tour_tab ul{overflow:hidden; width:700px; margin:0 auto;}
+.tour_tab ul li{float:left; width:25%; text-align:center; line-height:35px; height:35px; border-right:1px dashed #ff583c;}
+.tour_tab ul li:first-child{ border-left:1px dashed #ff583c;}
+
+.tour_tab ul li a:hover{color:#ff583c; font-weight:bold;}
+
+.tour_btn{position:relative;}
+.tour_btn a{position:absolute; right:10px; top:-30px; color:#fff; padding:6px 10px; background:#000; border:1px solid #fff;}
+
